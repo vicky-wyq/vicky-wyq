@@ -1,4 +1,5 @@
 ### Hi there 👋
+##### I am a UI/UX Designer for business and consumer-facing websites with a small team
 My **[Website](https://vickywang.me)**.
 
 <!--
