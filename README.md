@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a UI/UX Designer for business and consumer-facing websites with a small team with a background in architecture. 
+
 broad skill set developed in a startup environment with deep engagement in all stages of the design process.
+
 I designed and implemented **[this website](https://vickywang.me)**. from scratch, deployed it on AWS S3.
 
 
