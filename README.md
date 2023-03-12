@@ -3,7 +3,7 @@ I am a UI/UX Designer for business and consumer-facing websites with a small tea
 
 broad skill set developed in a startup environment with deep engagement in all stages of the design process.
 
-I designed and implemented **[this website](https://vickywang.me)**. from scratch, deployed it on AWS S3.
+Designed and implemented **[my portfolio website](https://vickywang.me)**. from scratch, deployed it on AWS S3.
 
 
 
