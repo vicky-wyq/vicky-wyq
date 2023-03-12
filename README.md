@@ -1,6 +1,8 @@
 ### Hi there 👋
-##### I am a UI/UX Designer for business and consumer-facing websites with a small team
-My **[Website](https://vickywang.me)**.
+I am a UI/UX Designer for business and consumer-facing websites with a small team
+designed and implemented **[my website](https://vickywang.me)**. from scratch, deployed it on AWS S3.
+
+
 
 <!--
 **vicky-wyq/vicky-wyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
