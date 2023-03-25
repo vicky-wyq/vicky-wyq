@@ -4,7 +4,7 @@ I am a UX Designer who is passionate about exploring and learning code with a ba
 broad skill set developed in a startup environment with deep engagement in all stages of the design process.
 
 Designed and implemented **[my portfolio website](https://vickywang.me)**. from scratch, deployed it on AWS S3.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma&theme=light)](https://skillicons.dev)
 
 
 
