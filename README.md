@@ -5,7 +5,7 @@ broad skill set developed in a startup environment with deep engagement in all s
 
 Designed and implemented **[my portfolio website](https://vickywang.me)**. from scratch, deployed it on AWS S3.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
 
 
