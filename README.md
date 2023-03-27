@@ -1,7 +1,8 @@
 # Hi! I'm Vicky 👋
 I'm a UX designer at GitHub who is passionate about exploring and learning code with a background in **[architecture](https://vickywang.me/architecture)**. 
 ## Learning and exploring
-- 
+- CodeMonkey
+- Codecademy
 
 I have experience working across a diverse range of skills within a startup setting, and am deeply involved in all aspects of the design process.
 
