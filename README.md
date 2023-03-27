@@ -6,17 +6,12 @@ As a UX designer with a diverse range of skills and experience in startup enviro
 - **[Portfolio website](https://vickywang.me)** designed and implemented this site from scratch, deployed it on AWS S3.
 - **[Codecademy](https://www.codecademy.com/profiles/vicky_w)** provides me with a structured and detailed approach to studying programming
 - Playing **[CodeMonkey](https://www.codemonkey.com/)** is a great way to build a foundation in programming logic
--  
-
-
 
 ## Skills
-
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,vscode,html,css,js)](https://skillicons.dev)
 
 ## Contact Me
 Feel free to contact me at vickyw.design@gmail.com
-
 
 <!--
 **vicky-wyq/vicky-wyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
