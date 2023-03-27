@@ -12,6 +12,8 @@ I have experience working across a diverse range of skills within a startup sett
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,vscode,html,css,js)](https://skillicons.dev)
 
+## Contact Me
+Feel free to contact me at vickyw.design@gmail.com
 
 
 <!--
