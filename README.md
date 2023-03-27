@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a UX Designer who is passionate about exploring and learning code with a background in **[architecture](https://vickywang.me/architecture)**. 
 
-broad skill set developed in a startup environment with deep engagement in all stages of the design process.
+I have experience working across a diverse range of skills within a startup setting, and am deeply involved in all aspects of the design process.
 
 Designed and implemented **[my portfolio website](https://vickywang.me)** from scratch, deployed it on AWS S3.
 
