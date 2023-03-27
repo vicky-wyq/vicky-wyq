@@ -2,8 +2,7 @@
 I'm a UX designer at GitHub who is passionate about exploring and learning code with a background in **[architecture](https://vickywang.me/architecture)**. 
 
 ## Learning and exploring
-I have experience working across a diverse range of skills within a startup setting, and am deeply involved in all aspects of the design process. 
-- **[Portfolio website](https://vickywang.me)** designed and implemented this site from scratch, deployed it on AWS S3.
+As a UX designer with a diverse range of skills and experience in startup environments, and fully involved in every aspect of the design process. I enjoy learning new technologies and finding ways to use them to create better design solutions and boost productivity.- **[Portfolio website](https://vickywang.me)** designed and implemented this site from scratch, deployed it on AWS S3.
 - CodeMonkey
 - Codecademy
 
