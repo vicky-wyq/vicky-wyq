@@ -1,9 +1,11 @@
 # Hi! I'm Vicky 👋
-I am a UX Designer who is passionate about exploring and learning code with a background in **[architecture](https://vickywang.me/architecture)**. 
+I'm a UX designer at GitHub who is passionate about exploring and learning code with a background in **[architecture](https://vickywang.me/architecture)**. 
+## Project
 
 I have experience working across a diverse range of skills within a startup setting, and am deeply involved in all aspects of the design process.
 
 Designed and implemented **[my portfolio website](https://vickywang.me)** from scratch, deployed it on AWS S3.
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,vscode,html,css,js)](https://skillicons.dev)
 
