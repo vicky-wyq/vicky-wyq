@@ -5,8 +5,9 @@ I'm a UX designer at GitHub who is passionate about exploring and learning code 
 As a UX designer with a diverse range of skills and experience in startup environments, and fully involved in every aspect of the design process. I enjoy learning new technologies and finding ways to use them to create better design solutions and boost productivity.
 - **[Portfolio website](https://vickywang.me)** designed and implemented this site from scratch, deployed it on AWS S3.
 - **[Codecademy](https://www.codecademy.com/profiles/vicky_w)** provides me with a structured and detailed approach to studying programming
-- Playing **[CodeMonkey](https://www.codemonkey.com/)** has helped me develop a solid understanding of programming concepts. Despite being designed for kids, I find it enjoyable to play for leisure.
+- Playing **[CodePen](https://codepen.io/vicky-wyq)**.
 
+- Playing **[CodeMonkey](https://www.codemonkey.com/)** has helped me develop a solid understanding of programming concepts. Despite being designed for kids, I find it enjoyable to play for leisure.
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,vscode,html,css,js)](https://skillicons.dev)
 
