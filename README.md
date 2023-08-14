@@ -6,7 +6,7 @@ As a UX designer with a diverse range of skills and experience in startup enviro
 - **[Portfolio website](https://vickywang.me)** Designed and implemented this site from scratch, and deployed it on AWS S3.
 - **[Codecademy](https://www.codecademy.com/profiles/vicky_w)**
 - **[CodePen](https://codepen.io/vicky-wyq)**
-- 
+
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,vscode,html,css,js)](https://skillicons.dev)
 
 ## Contact Me
