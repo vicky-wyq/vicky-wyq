@@ -4,8 +4,6 @@ I design scalable provider tools, admin workflows, and high-traffic consumer exp
 
 I use code (HTML/CSS/JS) to prototype, validate system behavior, and ship production UI in close collaboration with engineering.
 
-As a UX designer with a diverse range of skills and experience in startup environments, and fully involved in every aspect of the design process. I enjoy learning new technologies and finding ways to use them to create better design solutions and boost productivity.
-
 - **[Portfolio website](https://vickywang.me)**
 - **[Case Study](https://vickywang.me/bq_b2b_inventory_management/)**
 - **[CodePen](https://codepen.io/vicky-wyq)**
