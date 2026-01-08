@@ -1,6 +1,5 @@
 # Hi! I'm Vicky 👋
-I'm a UX designer who is passionate about exploring and learning code with a background in **[architecture](https://vickywang.me/architecture)**. 
-
+I'm a UX designer who is passionate about exploring and learning code with a background in architecture.
 ## Learning and exploring
 As a UX designer with a diverse range of skills and experience in startup environments, and fully involved in every aspect of the design process. I enjoy learning new technologies and finding ways to use them to create better design solutions and boost productivity.
 - **[Portfolio website](https://vickywang.me)**
