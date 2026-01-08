@@ -1,27 +1,14 @@
 # Hi! I'm Vicky 👋
-I'm a UX designer who is passionate about exploring and learning code with a background in architecture.
-## Learning and exploring
+Senior UX / Product Designer focused on marketplace and platform systems.
+I design scalable provider tools, admin workflows, and high-traffic consumer experiences.
+
+I use code (HTML/CSS/JS) to prototype, validate system behavior, and ship production UI in close collaboration with engineering.
+
 As a UX designer with a diverse range of skills and experience in startup environments, and fully involved in every aspect of the design process. I enjoy learning new technologies and finding ways to use them to create better design solutions and boost productivity.
+
 - **[Portfolio website](https://vickywang.me)**
+- **[Case Study]([https://vickywang.me](https://vickywang.me/bq_b2b_inventory_management/))**
 - **[CodePen](https://codepen.io/vicky-wyq)**
-- **[Codecademy](https://www.codecademy.com/profiles/vicky_w)**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,vscode,html,css,js)](https://skillicons.dev)
+Contact: vickyw.design@gmail.com
 
-## Contact Me
-Feel free to contact me at vickyw.design@gmail.com
-
-<!--
-**vicky-wyq/vicky-wyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
