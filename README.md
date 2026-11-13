@@ -1,12 +1,19 @@
-# Hi! I'm Vicky
-Senior UX / Product Designer focused on marketplace and platform systems.
-I design scalable provider tools, admin workflows, and high-traffic consumer experiences.
+# Hi, I'm Vicky
 
-I use HTML/CSS/JS to prototype, validate system behavior, and ship production UI with engineering.
+Product designer working on marketplaces and platforms: provider tools, customer booking flows, and the partner integrations between them.
 
-- **[Portfolio website](https://vickywang.me)**
-- **[Case Study](https://vickywang.me/bq_b2b_inventory_management/)**
-- **[CodePen](https://codepen.io/vicky-wyq)**
+I came to UX from architecture, and I still think in systems first.
+
+## How I use code
+
+I write HTML, CSS, and JavaScript to prototype ideas and to build my own site.
+
+I hand-coded my portfolio in 2020. In 2026 I rebuilt it with AI coding tools: I set the structure, tokens, and breakpoints, and review what gets generated against them.
+
+## Links
+
+- [Portfolio](https://vickywang.me)
+- [CodePen](YOUR_CODEPEN_URL)
+- [LinkedIn](https://www.linkedin.com/in/vicky-wyq/)
 
 Contact: vickyw.design@gmail.com
-
